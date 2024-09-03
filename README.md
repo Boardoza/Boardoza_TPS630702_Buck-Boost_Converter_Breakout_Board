@@ -7,7 +7,7 @@ The TPS630702 is a high efficiency, low quiescent current buck-boost converter s
 ### [Click here to purchase!](https://www.ozdisan.com)
 |Front Side|Back Side|
 |:---:|:---:|
-| ![ Front](./assets/TPS63070%20Front.png)| ![ Back](./assets/TPS63070%20Back.png)|
+| ![ Front](./assets/TPS630702%20Front.png)| ![ Back](./assets/TPS630702%20Back.png)|
 
 ---
 ## Key Features
@@ -101,17 +101,17 @@ The TPS630702 is a high efficiency, low quiescent current buck-boost converter s
 ---
 ## Board Dimensions
 
-<img src="./assets/TPS63070 Dimension.png" alt=" Dimension" width="450"/>
+<img src="./assets/TPS630702 Dimension.png" alt=" Dimension" width="450"/>
 
 ---
 ## Step Files
 
-[Boardoza TPS63070.step](./assets/TPS63070%20Step.step)
+[Boardoza TPS63070.step](./assets/TPS630702%20Step.step)
 
 ---
 ## Datasheet
 
-[Boardoza TPS63070 Datasheet.pdf](./assets/TPS63070%20Datasheet.pdf)
+[Boardoza TPS63070 Datasheet.pdf](./assets/TPS630702%20Datasheet.pdf)
 
 ---
 ## Version History
